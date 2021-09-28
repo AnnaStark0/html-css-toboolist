@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
 }
 
 .contenitore {
@@ -58,12 +59,24 @@ h1 {
 /*Fine Buttons*/
 
 /*ToDo*/
+
+h3 {
+    display: inline-block;
+}
+
 .todo {
     margin: auto;
+
+    margin-top: 2px;
+
     background-color: white;
     width: 80%;  
 
     border: 1px solid black;
+
+    padding-top: 30px;
+    padding-left: 30px;
+
 }
 
 
