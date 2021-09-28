@@ -7,3 +7,27 @@
 .contenitore {
     width: 100%;
 }
+
+/*Header*/
+
+.head {
+    height: 100px;
+    background-color: red;
+
+}
+
+h1 {
+    display: inline;
+    vertical-align: middle;
+    line-height: 15px;
+    
+}
+
+.logo {
+    margin-top: 15px;
+    margin-right: 5px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    width: 70px;
+    vertical-align: middle;
+}
